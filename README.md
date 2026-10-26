@@ -6,7 +6,7 @@ a chat window for sending and receiving messages.
 
 ## Demo
 
-<video src="./demo.mp4" controls width="720">
+<video src="https://github.com/Mohamed6seddiki/python-chat-app/raw/main/demo.mp4" controls width="720"></video>
   Your browser cannot play the video. [Open the demo video](./demo.mp4).
 </video>
 
